@@ -1,4 +1,4 @@
-# TailwindCSS Demo
+# TailwindCSS Demo v1
 
 - This project is just a Demo.
 - As of now I'm currently studying NextJS and TailwindCSS.
